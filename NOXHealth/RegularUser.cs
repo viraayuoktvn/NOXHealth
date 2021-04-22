@@ -18,14 +18,22 @@ namespace NOXHealth
         public int cholesterolLevel { get; set; }
         public int bloodPreassure { get; set; }
 
+        public RegularUser(string email, string password, bool loginStatus, DateTime registerDate)
+        {
+            this.email = email;
+            this.password = password;
+            this.loginStatus = loginStatus;
+            this.registerDate = registerDate;
+        }
 
-        public void register()
+
+        public override void register()
         {
 
         }
-        public void login()
+        public override void login()
         {
-
+            
         }
 
         public void updateProfile()
@@ -37,5 +45,6 @@ namespace NOXHealth
         {
 
         }
+
     }
 }

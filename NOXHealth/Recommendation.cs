@@ -10,11 +10,6 @@ namespace NOXHealth
     {
         public DateTime time { get; set; }
 
-        public Recommendation(DateTime time)
-        {
-            this.time = time;
-        }
-
         public abstract void showRecommendation();
 
     }

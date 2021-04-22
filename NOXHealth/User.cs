@@ -13,19 +13,10 @@ namespace NOXHealth
         public bool loginStatus { get; set; }
         public DateTime registerDate { get; set; }
 
-        public User (string email, string password, bool loginStatus, DateTime registerDate)
-        {
-            this.email = email;
-            this.password = password;
-            this.loginStatus = loginStatus;
-            this.registerDate = registerDate;
-        }
-
         public abstract void register();
         public abstract void login();
 
-
-
-
     }
+
+
 }

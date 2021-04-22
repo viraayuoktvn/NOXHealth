@@ -6,13 +6,13 @@ using System.Threading.Tasks;
 
 namespace NOXHealth
 {
-    class Diet : Recommendation
+    class Exercise : Recommendation
     {
-        public int carbo { get; set; }
-        public int protein { get; set; }
-        public int vitamin { get; set; }
+        public int duration { get; set; }
+        public int difficulty { get; set; }
+        public int repetition { get; set; }
 
-        public Diet(DateTime time)
+        public Exercise(DateTime time)
         {
             this.time = time;
         }
@@ -21,5 +21,8 @@ namespace NOXHealth
         {
 
         }
+
     }
+
+    
 }
