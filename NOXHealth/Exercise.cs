@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -17,11 +17,19 @@ namespace NOXHealth
             this.time = time;
         }
 
+        public Exercise()
+        {
+        }
+
         public override void showRecommendation()
         {
 
         }
 
+        public double calcCalories()
+        {
+
+        }
     }
 
     
