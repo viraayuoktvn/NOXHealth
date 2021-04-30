@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -13,6 +13,10 @@ namespace NOXHealth
         public Sleep(DateTime time)
         {
             this.time = time;
+        }
+
+        public Sleep()
+        {
         }
 
         public override void showRecommendation()
