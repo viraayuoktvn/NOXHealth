@@ -1,0 +1,16 @@
+D:\NOXHealth\NOXHealth\NOXHealth\bin\Debug\net5.0\NOXHealth.exe
+D:\NOXHealth\NOXHealth\NOXHealth\bin\Debug\net5.0\NOXHealth.deps.json
+D:\NOXHealth\NOXHealth\NOXHealth\bin\Debug\net5.0\NOXHealth.runtimeconfig.json
+D:\NOXHealth\NOXHealth\NOXHealth\bin\Debug\net5.0\NOXHealth.runtimeconfig.dev.json
+D:\NOXHealth\NOXHealth\NOXHealth\bin\Debug\net5.0\NOXHealth.dll
+D:\NOXHealth\NOXHealth\NOXHealth\bin\Debug\net5.0\ref\NOXHealth.dll
+D:\NOXHealth\NOXHealth\NOXHealth\bin\Debug\net5.0\NOXHealth.pdb
+D:\NOXHealth\NOXHealth\NOXHealth\obj\Debug\net5.0\NOXHealth.GeneratedMSBuildEditorConfig.editorconfig
+D:\NOXHealth\NOXHealth\NOXHealth\obj\Debug\net5.0\NOXHealth.AssemblyInfoInputs.cache
+D:\NOXHealth\NOXHealth\NOXHealth\obj\Debug\net5.0\NOXHealth.AssemblyInfo.cs
+D:\NOXHealth\NOXHealth\NOXHealth\obj\Debug\net5.0\NOXHealth.csproj.CoreCompileInputs.cache
+D:\NOXHealth\NOXHealth\NOXHealth\obj\Debug\net5.0\NOXHealth.dll
+D:\NOXHealth\NOXHealth\NOXHealth\obj\Debug\net5.0\ref\NOXHealth.dll
+D:\NOXHealth\NOXHealth\NOXHealth\obj\Debug\net5.0\NOXHealth.pdb
+D:\NOXHealth\NOXHealth\NOXHealth\obj\Debug\net5.0\NOXHealth.genruntimeconfig.cache
+D:\NOXHealth\NOXHealth\NOXHealth\obj\Debug\net5.0\NOXHealth.csprojAssemblyReference.cache

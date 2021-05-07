@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Products\\Program\\NOXHealth\\NOXHealth\\NOXHealth\\NOXHealth.csproj",
+      "projectUniqueName": "D:\\NOXHealth\\NOXHealth\\NOXHealth.csproj",
       "projectName": "NOXHealth",
-      "projectPath": "D:\\Products\\Program\\NOXHealth\\NOXHealth\\NOXHealth\\NOXHealth.csproj",
+      "projectPath": "D:\\NOXHealth\\NOXHealth\\NOXHealth.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "D:\\Products\\Program\\NOXHealth\\NOXHealth\\NOXHealth\\obj\\",
+      "outputPath": "D:\\NOXHealth\\NOXHealth\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
